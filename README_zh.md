@@ -1,9 +1,5 @@
 [English](README.md)
 
-這是我為你準備的繁體中文版 `README_zh.md` 內容。我已經套用了你要求的用詞規則（如：資料、利用、讀取），並將連結全部指向你的 GitHub Pages。
-
----
-
 # Gemini 無損去水印工具 - [xuss-mt.github.io](https://xuss-mt.github.io/gemini-watermark-remover/)
 
 這是一個高效、100% 本地運行的 Gemini AI 浮水印移除工具。利用純 JavaScript 開發，核心採用數學精確的 **反向 Alpha 混合 (Reverse Alpha Blending)** 演算法，而非不可預測的 AI 修補技術。
