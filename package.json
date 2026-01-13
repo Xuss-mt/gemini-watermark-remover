@@ -2,10 +2,11 @@
   "name": "gemini-watermark-remover",
   "description": "Automatically removes watermarks from Gemini AI generated images",
   "version": "1.0.0",
-  "author": "journey-ad",
+  "author": "Benson Xu",
+  "homepage": "https://xuss-mt.github.io/gemini-watermark-remover/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/journey-ad/gemini-watermark-remover.git"
+    "url": "https://github.com/Xuss-mt/gemini-watermark-remover.git"
   },
   "license": "MIT",
   "type": "module",
