@@ -1,4 +1,4 @@
-[中文說明](https://www.google.com/search?q=README_zh.md)
+[中文說明](https://github.com/Xuss-mt/gemini-watermark-remover/blob/main/README_zh.md)
 
 # Gemini Lossless Watermark Remover - [xuss-mt.github.io](https://xuss-mt.github.io/gemini-watermark-remover/)
 
